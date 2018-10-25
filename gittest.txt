@@ -4,6 +4,10 @@ gittestinside2
 
 gittestinside3
 
-gittestinside4
+gittestinside4-del
 
-gittestinside5
+gittestinside5-del
+
+gittestinside6
+
+gittestinside7
