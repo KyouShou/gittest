@@ -3,17 +3,3 @@ gittestinside1
 gittestinside2
 
 gittestinside3
-
-<<<<<<< HEAD
-gittestinside4-del
-
-gittestinside5-del
-
-gittestinside6
-
-gittestinside7
-=======
-gittestinside4
-
-gittestinside5
->>>>>>> jing2

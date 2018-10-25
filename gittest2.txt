@@ -2,16 +2,4 @@ gittest2inside1
 
 gittest2inside2
 
-gittest2inside3-del
-
-<<<<<<< HEAD
-gittest2inside4
-=======
-gittest2inside4
-
-gittest2inside5
-
-gittest2inside6
-
-gittest2inside7
->>>>>>> jing2
+gittest2inside3
