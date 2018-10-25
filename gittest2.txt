@@ -2,4 +2,6 @@ gittest2inside1
 
 gittest2inside2
 
-gittest2inside3
+gittest2inside3-del
+
+gittest2inside4
